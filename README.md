@@ -1,0 +1,2 @@
+# SerbaGudang
+Aplikasi Serba Gudang
